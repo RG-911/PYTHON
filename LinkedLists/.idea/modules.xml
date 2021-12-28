@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Capturing Rain Water/.idea/Capturing Rain Water.iml" filepath="$PROJECT_DIR$/../Capturing Rain Water/.idea/Capturing Rain Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DCP/.idea/DCP.iml" filepath="$PROJECT_DIR$/../DCP/.idea/DCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dynamic Programming/.idea/Dynamic Programming.iml" filepath="$PROJECT_DIR$/../Dynamic Programming/.idea/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Game of Chance/.idea/Games.iml" filepath="$PROJECT_DIR$/../Game of Chance/.idea/Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LIST/.idea/LIST.iml" filepath="$PROJECT_DIR$/../LIST/.idea/LIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LinkedLists.iml" filepath="$PROJECT_DIR$/.idea/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../STACK/.idea/STACK.iml" filepath="$PROJECT_DIR$/../STACK/.idea/STACK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Search Algorithms/.idea/Search Algorithms.iml" filepath="$PROJECT_DIR$/../Search Algorithms/.idea/Search Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Searchcademy/.idea/Searchcademy.iml" filepath="$PROJECT_DIR$/../Searchcademy/.idea/Searchcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../The Boredless Tourist/.idea/The Boredless Tourist.iml" filepath="$PROJECT_DIR$/../The Boredless Tourist/.idea/The Boredless Tourist.iml" />
+    </modules>
+  </component>
+</project>
